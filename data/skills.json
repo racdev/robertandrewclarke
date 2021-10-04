@@ -1,0 +1,137 @@
+[
+  {
+    "grouping": "Languages and Operating Systems",
+    "skills": [
+      "HCL",
+      "Python",
+      "Ruby",
+      "Go",
+      "Java",
+      "Javascript",
+      "Groovy",
+      "linux",
+      "bash",
+      "HTML5",
+      "CSS3"
+    ]
+  },
+  {
+    "grouping": "Containers & Cloud",
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "link": "https://kubernetes.io/"
+      },
+      {
+        "name": "AWS",
+        "link": "https://aws.amazon.com",
+        "icon": "amazonwebservices"
+      },
+      {
+        "name": "Rancher",
+        "link": "https://rancher.com/"
+      },
+      {
+        "name": "Containerd",
+        "link": "https://containerd.io/"
+      },
+      {
+        "name": "Kaniko",
+        "link": "https://github.com/GoogleContainerTools/kaniko"
+      },
+      {
+        "name": "Docker",
+        "link": "https://docker.com"
+      }
+    ]
+  },
+  {
+    "grouping": "Tools",
+    "skills": [
+      "git",
+      "kubectl",
+      "k9s",
+      "Terraform",
+      "Packer",
+      "Vault",
+      {"name":"AWS CLI","icon": "amazonwebservices"},
+      "Ansible",
+      "Puppet",
+      "VSCode"
+    ]
+  },
+  {
+    "grouping": "Platform Development & Administration",
+    "skills": [
+      {
+        "name": "Azure DevOps",
+        "link": "https://dev.azure.com"
+      },
+      {
+        "name": "SonarQube",
+        "link": "https://www.sonarqube.org/"
+      },
+      {
+        "name": "Grafana",
+        "link": "https://grafana.com/"
+      },
+      {
+        "name": "Prometheus",
+        "link": "https://prometheus.io/"
+      },
+      {
+        "name": "ELK",
+        "link": "https://www.elastic.co/what-is/elk-stack"
+      },
+      {
+        "name": "Fluentd",
+        "link": "https://www.fluentd.org/"
+      },
+      {
+        "name": "NGINX",
+        "link": "https://www.nginx.com/"
+      },
+      {
+        "name": "Jira",
+        "link": "https://www.atlassian.com/software/jira"
+      },
+      {
+        "name": "Confluence",
+        "link": "https://www.atlassian.com/software/confluence"
+      },
+      {
+        "name": "Bitbucket",
+        "link": "https://www.atlassian.com/software/bitbucket"
+      },
+      {
+        "name": "Jenkins",
+        "link": "https://www.jenkins.io/"
+      },
+      {
+        "name": "Artifactory",
+        "link": "https://jfrog.com/artifactory/"
+      },
+      {
+        "name": "Checkmarx",
+        "link": "https://checkmarx.com/"
+      },
+      {
+        "name": "XL Release",
+        "link": "https://digital.ai/release"
+      }]
+  },
+  {
+    "grouping": "Architecture and Concepts",
+    "skills": [
+      "Agile",
+      "Configuration as Code",
+      "DevOps",
+      "DNS",
+      "Load Balancing",
+      "Microservices",
+      "REST",
+      "SOA",
+      "SaaS/Faas/PaaS/IaaS"
+    ]
+  }
+]

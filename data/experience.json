@@ -1,0 +1,32 @@
+[
+    {
+        "role":"Technical Services Specialist",
+        "company":"Aviva",
+        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
+        "range":"May 2018 - Present"
+    },
+    {
+        "role":"Software Developer",
+        "company":"Aviva",
+        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
+        "range":"October 2014 - May 2018"
+    },
+    {
+        "role":"Senior Java Developer / Analyst",
+        "company":"The British Library",
+        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
+        "range":"September 2008 - October 2014"
+    },
+    {
+        "role":"Java Developer",
+        "company":"Merisis Technology LTD",
+        "summary":"Developed J2EE web application solutions for IBM Web Applicaton Server and Websphere Portal utililzing DB2 Databases.",
+        "range":"June 2006 - September 2008"
+    },
+    {
+        "role":"ABAB Developer",
+        "company":"ARCO LTD.",
+        "summary":"Developed ABAP programs and reports for the companies SAP R/3 system.",
+        "range":"September 2005 - June 2006"
+    }
+]
