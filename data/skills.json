@@ -124,6 +124,7 @@
     "grouping": "Architecture and Concepts",
     "skills": [
       "Agile",
+      "Infrastructure as Code",
       "Configuration as Code",
       "DevOps",
       "DNS",

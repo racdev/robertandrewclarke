@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "CV"
 date: 2021-10-04T20:00
 sitemap:
   priority : 1.0
@@ -12,6 +12,7 @@ outputs:
 
 **Technical Services Specialist @ [Aviva](https://aviva.com)**
 
-Proven Software and Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
-
-This site was generated using [HUGO](https://gohugo.io/) from an [open source theme](https://github.com/eddiewebb/hugo-resume) 
+Proven Software and Platform Engineer with experience leveraging agile, DevOps, and automation to build and manage distributed platforms in public cloud, with a focus on containerisation, Kubernetes and developer experience.\
+\
+\
+*This site was generated using [HUGO](https://gohugo.io/) from an [open source theme](https://github.com/eddiewebb/hugo-resume)*

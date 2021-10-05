@@ -26,6 +26,7 @@ h6 {
 
 h1, h2{
   text-transform: uppercase;
+  color: #242d3c;
 }
 
 h1 {
@@ -35,7 +36,6 @@ h1 {
 
 h2 {
   font-size: 2rem;
-  color: #343a40;
 }
 
 .mb-5, .my-5 {
