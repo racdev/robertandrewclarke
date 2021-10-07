@@ -68,6 +68,10 @@
         "link": "https://dev.azure.com"
       },
       {
+        "name": "Flux",
+        "link": "https://fluxcd.io/"
+      },
+      {
         "name": "SonarQube",
         "link": "https://www.sonarqube.org/"
       },
@@ -123,6 +127,7 @@
   {
     "grouping": "Architecture and Concepts",
     "skills": [
+      "GitOps",
       "Agile",
       "Infrastructure as Code",
       "Configuration as Code",
