@@ -76,9 +76,9 @@ h2 {
 }
 
 .navbar-brand {
-  font-family: 'Open SansRoboto', serif;
+  font-family: 'Roboto Condensed', serif;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 @media (min-width: 992px) {
