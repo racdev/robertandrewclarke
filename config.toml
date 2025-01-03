@@ -17,18 +17,17 @@ middleName = "Andrew"
 lastName = "Clarke"
 phone = ""
 profileImage = "img/me.jpg"
-showEducation = true
-showExperience = true
-showOpenSource = false
-showProjects = false
-showPublications = false
-showQr = false
-showSkills = true
+showQr = true
+showContact = false
+showBoards  = false
+showCertifications = false
+showSocializations = true
+sections = ["skills","experience","education"]
 
 [params.google]
 
 [params.google.analytics]
-trackerID = ""
+trackerID = "G-JJBJW1YTZV"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/robert-clarke-9493496b/"

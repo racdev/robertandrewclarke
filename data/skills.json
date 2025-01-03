@@ -1,22 +1,51 @@
 [
   {
-    "grouping": "Languages and Operating Systems",
+    "grouping": "Languages",
     "skills": [
-      "HCL",
       "Python",
-      "Ruby",
-      "Go",
       "Java",
       "Javascript",
-      "Groovy",
-      "linux",
-      "bash",
+      "Ruby",
+      "Go",
+      "HCL",
+      "Bash",
       "HTML5",
-      "CSS3"
+      "CSS3",
+      "Yaml",
+      "Xml"
     ]
   },
   {
-    "grouping": "Containers & Cloud",
+    "grouping": "AI",
+    "skills": [
+      {
+        "name": "Langchain",
+        "link": "https://www.langchain.com/"
+      },
+      {
+        "name": "OpenAI",
+        "link": "https://platform.openai.com/docs/overview"
+      },
+      {
+        "name": "AWS Bedrock",
+        "link": "https://aws.amazon.com/bedrock/"
+      },
+      {
+        "name": "AWS Textract",
+        "link": "https://aws.amazon.com/textract/"
+      },
+      {
+        "name": "Azure OpenAI",
+        "link": "https://azure.microsoft.com/en-us/products/ai-services/openai-service"
+      },
+      {
+        "name": "Azure AI Search",
+        "link": "https://azure.microsoft.com/en-us/products/ai-services/ai-search/"
+      }
+    ]
+  },
+  {
+    "grouping": "Infrastructure, Cloud and Hosting",
     "skills": [
       {
         "name": "Kubernetes",
@@ -28,72 +57,59 @@
         "icon": "amazonwebservices"
       },
       {
-        "name": "Rancher",
-        "link": "https://rancher.com/"
-      },
-      {
-        "name": "Containerd",
-        "link": "https://containerd.io/"
-      },
-      {
-        "name": "Kaniko",
-        "link": "https://github.com/GoogleContainerTools/kaniko"
+        "name": "Azure",
+        "link": "https://azure.microsoft.com/"
       },
       {
         "name": "Docker",
         "link": "https://docker.com"
+      },
+      {
+        "name": "Linux"
       }
     ]
   },
   {
     "grouping": "Tools",
     "skills": [
-      "git",
-      "kubectl",
-      "k9s",
-      "Terraform",
-      "Packer",
-      "Vault",
+      {
+        "name": "Git",
+        "link": "https://git-scm.com/"
+      },
+      {
+        "name": "Kubectl",
+        "link": "https://kubernetes.io/docs/reference/kubectl/"
+      },
+      {
+        "name": "K9s",
+        "link": "https://k9scli.io/"
+      },
+      {
+        "name": "Terraform",
+        "link": "https://www.terraform.io/"
+      },
+      {
+        "name": "Packer",
+        "link": "https://www.packer.io/"
+      },
+      {
+        "name": "Vault",
+        "link": "https://www.vaultproject.io/"
+      },
       {"name":"AWS CLI","icon": "amazonwebservices"},
       "Ansible",
-      "Puppet",
-      "VSCode"
-    ]
-  },
-  {
-    "grouping": "Platform Development & Administration",
-    "skills": [
+      "VSCode",
       {
-        "name": "Azure DevOps",
+        "name": "AzureDevOps",
         "link": "https://dev.azure.com"
       },
       {
-        "name": "Flux",
+        "name": "Flux CD",
         "link": "https://fluxcd.io/"
       },
       {
         "name": "SonarQube",
         "link": "https://www.sonarqube.org/"
-      },
-      {
-        "name": "Grafana",
-        "link": "https://grafana.com/"
-      },
-      {
-        "name": "Prometheus",
-        "link": "https://prometheus.io/"
-      },
-      {
-        "name": "ELK",
-        "link": "https://www.elastic.co/what-is/elk-stack"
-      },
-      {
-        "name": "Fluentd",
-        "link": "https://www.fluentd.org/"
-      },
-      {
-        "name": "NGINX",
-        "link": "https://www.nginx.com/"
       },
       {
         "name": "Jira",
@@ -114,26 +130,23 @@
       {
         "name": "Artifactory",
         "link": "https://jfrog.com/artifactory/"
-      },
-      {
-        "name": "Checkmarx",
-        "link": "https://checkmarx.com/"
-      },
-      {
-        "name": "XL Release",
-        "link": "https://digital.ai/release"
-      }]
+      }
+    ]
   },
   {
-    "grouping": "Architecture and Concepts",
+    "grouping": "Concepts, Frameworks and Technology",
     "skills": [
       "GitOps",
-      "Agile",
-      "Infrastructure as Code",
-      "Configuration as Code",
-      "DevOps",
+      "AIOps",
+      "DevSecOps",
+      "IaC",
+      "CaC",
+      "Agile Methodology",
+      "TCP/IP",
       "DNS",
       "Load Balancing",
+      "Event driven architecture",
+      "OpenAPI",
       "Microservices",
       "REST",
       "SOA",
