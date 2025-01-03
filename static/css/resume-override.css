@@ -1,0 +1,141 @@
+body {
+    font-family: 'Open SansRoboto', serif;
+    padding-top: 54px;
+    color: #424242;
+    background-color: #ebebeb;
+  }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Roboto Condensed', serif;
+    font-weight: 500;
+    color: #292929;
+}
+
+h1, h2{
+    text-transform: uppercase;
+    color: #242d3c;
+}
+
+h1 {
+    font-size: 4rem;
+    line-height: 4rem;
+  }
+  
+  h2 {
+    font-size: 2rem;
+  }
+
+.mb-5, .my-5 {
+    margin-bottom: 2rem!important;
+  }
+
+  
+.subheading {
+    text-transform: none !important;
+  }
+
+.list-social-icons a {
+    color: #424242;
+}
+  
+.list-social-icons a:hover {
+    color: #e46e35;
+}
+
+.list-icons .list-inline-item i:hover {
+    color: #e46e35;
+}
+
+.navbar-brand {
+    font-family: 'Roboto Condensed', serif;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+@media (min-width: 992px) {
+    #sideNav {
+      text-align: center;
+      position: fixed;
+      top: 0;
+      left: 0;
+      display: flex;
+      flex-direction: column;
+      width: 16rem;
+      height: 100vh;
+      border-right:#e46e35 5px solid;
+    }
+    #sideNav .navbar-brand {
+      display: flex;
+      margin: auto auto 0;
+      padding: 0.5rem;
+    }
+    #sideNav .navbar-brand .img-profile {
+      max-width: 10rem;
+      max-height: 10rem;
+      border: 5px solid #e46e35;
+    }
+    #sideNav .navbar-collapse {
+      display: flex;
+      align-items: flex-start;
+      flex-grow: 0;
+      width: 100%;
+      margin-bottom: auto;
+    }
+    #sideNav .navbar-collapse .navbar-nav {
+      flex-direction: column;
+      width: 100%;
+    }
+    #sideNav .navbar-collapse .navbar-nav .nav-item {
+      display: block;
+    }
+    #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
+      display: block;
+    }
+}
+
+section.resume-section {
+    border-bottom: 1px solid #424242;
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;
+  }
+  
+  section.resume-section .resume-item .resume-date {
+    min-width: none;
+  }
+  
+  @media (min-width: 768px) {
+    section.resume-section {
+      min-height: 100vh;
+    }
+    section.resume-section .resume-item .resume-date {
+      min-width: 18rem;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    section.resume-section {
+      padding-top: 3rem !important;
+      padding-bottom: 3rem !important;
+    }
+  }
+
+.bg-primary {
+    background-color: #242d3c !important;
+  }
+  
+  .text-primary {
+    color: #e46e35 !important;
+  }
+  
+  a {
+    color: #0a4d5f;
+  }
+  
+  a:hover, a:focus, a:active {
+    color: #e46e35;
+  }
